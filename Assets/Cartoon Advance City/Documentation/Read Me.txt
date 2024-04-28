@@ -1,0 +1,24 @@
+Documentation of 3D City environment Asset
+
+In this Environment, we have created all the models separatedly, all the models are reuseable and it's depends upon us that how we can use and place in the environment.
+we have created Buildings, roads, trees, footpaths, bench, pillars, stairs, electric house, watertank, doors, windows, boundry walls,  windows mirror, garbage box, street lights, traffic light, house main door, 3 grounds, shop shutter, wood fence and slide stairs etc. 
+Models are made with only 5 texture. Models are very low poly. The 3D City Environment pack consists of different objects created individually, so you can use them to create an intuitive and eye-catching user interface for your 3D game or animated video. The vectors can be edited and placed at any scene in the game/video to give it a more defined look. Colliders are placed on the necessary objects.
+
+we have different folders:
+1) Material:
+	Models are made with only 8 materials.
+2) Models: 
+	4 folders are placed in this models folders. In which you will see different type of models inside it.
+3) Prefabs: 
+	all buildings are placed in building folders, roads and its objects are placed in road folder. All other necessary objects are placed in props folder.
+4) Scene: 
+	There you will see demo scenes of envornment.
+5) Texture:
+	Models are made with only 5 textures
+
+
+All the prefabs are created, you can use each prefabs according to your environment. you just need to drag and drop each prefab wherever you want. you can create a big environment for your 3d games and 3d animation. Each objects are scaleable, you can transform and rotate every object.
+
+
+
+ 
